@@ -1,0 +1,11 @@
+<changelog bulletedList="true">
+<changelogversion versionName="V-5.2" changeDate="March 01, 2017">
+<changelogtext>[b]Improvement![/b] Removed unnecessary hotplug drivers </changelogtext>
+<changelogtext>[b]Improvement![/b] Removed fast charging ( Actually its not working for our device o.O ) </changelogtext>
+<changelogtext>[b]Improvement![/b] Fsync On/Off switch.</changelogtext>
+<changelogtext>[b]Improvement![/b] Built Using Linaro- 5.2 Toolchain along with Cortex A7 compiler optimizations. </changelogtext>
+<changelogtext>[b]Improvement![/b] Frandom driver- Fast Kernel Number Generator </changelogtext>
+<changelogtext>[b]Improvement![/b] Now powered by AROMA Installer. </changelogtext>
+<changelogtext>[b]Improvement![/b] Faux Sound Control 2.0 - A sound hack driver by faux123 ported to sprd codecs by me. </changelogtext>
+</changelogversion>
+</changelog>

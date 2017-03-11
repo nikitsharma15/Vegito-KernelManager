@@ -1,0 +1,8 @@
+<changelog bulletedList="true">
+<changelogversion versionName="V-5.2" changeDate="Feb 05, 2017">
+<changelogtext>[b]Improvement![/b] ThunderCharge Control – A driver to control the charging current rate developed by @varun.chitre15
+</changelogtext>
+<changelogtext>[b]Improvement![/b] Fix simple_ondemand crashing </changelogtext>
+<changelogtext>[b]Improvement![/b] Disable More Debugging </changelogtext>
+</changelogversion>
+</changelog>
