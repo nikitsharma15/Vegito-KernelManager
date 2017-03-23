@@ -1,6 +1,6 @@
 {
   "newVersion": "6.2",
-  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Motorola/Vegito-6.0.zip",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Motorola/app/stock/VegitoKernel_6.2-Athene.zip",
   "versionNotes": [
     "- Power efficient workqueue patches (squashed) "
     "- PM / devfreq: Fix simple_ondemand crashing  "
