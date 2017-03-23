@@ -1,5 +1,5 @@
 {
-  "newVersion": "6.2",
+  "newVersion": "6.2 ( Stock )",
   "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Motorola/app/stock/VegitoKernel_6.2-Athene.zip",
   "versionNotes": [
     "- Power efficient workqueue patches (squashed) \n- PM / devfreq: Fix simple_ondemand crashing \n- Add blink support to kernel \n- Cpufreq: interactive: reduce timer with screen \n- Many more check xda"
