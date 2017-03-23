@@ -1,7 +1,0 @@
-<changelog bulletedList="true">
-<changelogversion versionName="V-6.0" changeDate="Feb 06, 2017">
-<changelogtext>[b]Improvement![/b] Add blink support to kernel thanks to @JackpotClavin</changelogtext>
-<changelogtext>[b]Improvement![/b] SELinux set to permissive  </changelogtext>
-<changelogtext>[b]Improvement![/b] Fix simple_ondemand crashing</changelogtext>
-</changelogversion>
-</changelog>
