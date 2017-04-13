@@ -1,6 +1,6 @@
 {
   "newVersion": "4.2",
-  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Samsung/Vegito_5.2-Fuzion-Updated.zip",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Samsung/g361h/Vegito_4.2.zip",
   "versionNotes": [
     "- Support Wifi PM driver ( Wifi power saver ) \n- Now powered by AROMA Installer \n- Support Fsync && Software CRC control \n- Smart ramdisk patching mechanism - low size, wider compatibility \n- Compatible with all roms?"
   ]
