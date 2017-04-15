@@ -1,0 +1,7 @@
+{
+  "newVersion": "5.5",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Samsung/g361h/Vegito_4.2.zip",
+  "versionNotes": [
+    "- Added CPU voltage control \n- Overclocked to 1.4GHZ \n- Removed useless governors \n- Introducing SuperCharge Control driver\n-a driver to control charging limits for both AC and USB"
+  ]
+}
