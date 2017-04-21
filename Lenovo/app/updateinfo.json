@@ -1,7 +1,7 @@
 {
-  "newVersion": "5.5",
-  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Lenovo/app/VegitoKernel_5.5-A6020.zip",
+  "newVersion": "5.8",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Lenovo/app/VegitoKernel_5.8-A6020.zip",
   "versionNotes": [
-    "- Power efficient workqueue patches (squashed) \n- Sync with LineageOS \n- Kernel: reduce overheat \n- Cpufreq: interactive: reduce timer with screen \n- Reduced RQ Lock-Contention for upto 0.7% increase in Performance"
+    "- Revert ThunderPlug- A Dynamic Hotplug Driver by @varun.chitre15 \n- Added core control \n- Reduced idle power consumption \n- Wakelocks blocked by default thanks to @franciscofranco \n- DoubleTap2Wake and Sweep2Wake Update"
   ]
 }
