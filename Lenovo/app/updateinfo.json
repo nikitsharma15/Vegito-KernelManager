@@ -1,7 +1,7 @@
 {
-  "newVersion": "5.8",
-  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Lenovo/app/VegitoKernel_5.8-A6020.zip",
+  "newVersion": "6.0",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Lenovo/app/VegitoKernel_6.0-A6020.zip",
   "versionNotes": [
-    "- Revert ThunderPlug- A Dynamic Hotplug Driver by @varun.chitre15 \n- Added core control \n- Reduced idle power consumption \n- Wakelocks blocked by default thanks to @franciscofranco \n- DoubleTap2Wake and Sweep2Wake Update"
+    "- Merged latest lineage kernel source \n- Re-enable ThunderPlug hotplug \n- Huge update to kernel.org mainline 3.10.72 \n- Add IOSCHED_SWITCHER by @sultanxda This enables a driver that switches the I/O scheduler for a single block device to Noop when the screen turns off, and back to its original I/O scheduler after a delay when the screen is turned back on"
   ]
 }
