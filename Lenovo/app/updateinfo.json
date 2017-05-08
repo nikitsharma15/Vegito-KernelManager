@@ -2,6 +2,6 @@
   "newVersion": "6.0",
   "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Lenovo/app/VegitoKernel_6.0-A6020.zip",
   "versionNotes": [
-    "- Merged latest lineage kernel source \n- Re-enable ThunderPlug hotplug \n- Huge update to kernel.org mainline 3.10.62 \n- Add IOSCHED_SWITCHER by @sultanxda This enables a driver that switches the I/O scheduler for a single block device to Noop when the screen turns off, and back to its original I/O scheduler after a delay when the screen is turned back on"
+    "- Upgraded to latest Linux version (3.10.105) \n- Added dt2w and s2w feature again \n- Major fixes & cleanup \n- Removed unnecessary cpu governors \n- Removed unnecessary ioschedulers \n- Relax thermal throttling values"
   ]
 }
