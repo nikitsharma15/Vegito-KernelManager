@@ -1,6 +1,6 @@
 {
   "newVersion": "1.0",
-  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Samsung/ja3gxx/VegitoKernel_1.0-S4.zip",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Samsung/ja3gxx/VegitoKernel-1.0_S4.zip",
   "versionNotes": [
     "- Initial release \n- Optimized Integer SQRT. for upto 3x faster operation \n- Powersuspend: new PM kernel driver for Android w/o early_suspend \n- Topology: Enhance For MultiCore Decision Making \n- block: Add SIO I/O scheduler && FIOPS I/O scheduler \n- Add /dev/frandom support "
   ]
