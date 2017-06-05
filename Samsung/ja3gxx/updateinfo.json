@@ -2,6 +2,6 @@
   "newVersion": "1.0",
   "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Samsung/ja3gxx/Vegito_1.0.zip",
   "versionNotes": [
-    "- Initial Release "
+    "- Rebase zram and zsmalloc from 3.15 \n- LZ4 compression, cryptography and LZ4 for ZRAM \n- Wifi PM Toggle \n- Vnswap: integrate vnswap from Samsung "
   ]
 }
