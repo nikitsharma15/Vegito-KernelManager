@@ -1,5 +1,5 @@
 {
-  "newVersion": "6.5",
+  "newVersion": "2.0",
   "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Motorola/app/stock/VegitoKernel_6.5-Athene.zip",
   "versionNotes": [
     "- Revert some useless governors \n- Remove msm hotplug driver use thunderplug for now \n- Many more check github"
