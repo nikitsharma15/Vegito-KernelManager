@@ -1,6 +1,7 @@
+{
   "newVersion": "1.0",
-  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Samsung/ja3gxx/VegitoKernel-1.0_S4.zip",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Samsung/ja3gxx/Vegito_1.0.zip",
   "versionNotes": [
-    "- Enable Wq-power-efficient by default \n- Disable gentle fair sleepers by default \n- OC to 1.6Ghz and UC to 200Mhz \n- Upstream ZRAM with lz4 compression "
+    "- Initial Release "
   ]
 }
