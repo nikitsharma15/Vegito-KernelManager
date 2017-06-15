@@ -1,7 +1,7 @@
 {
-  "newVersion": "6.4",
-  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Lenovo/app/VegitoKernel_6.4-A6020.zip",
+  "newVersion": "6.6",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Lenovo/app/VegitoKernel_6.6-A6020.zip",
   "versionNotes": [
-    "- LZ4 compression, cryptography and LZ4 for ZRAM \n- Added ZEN IOScheduler \n- Tune the Task-Scheduler for Power-Savings \n- Rebase zram and zsmalloc from 3.15 \n- Lower min. clock freq ( 100Mhz ) "
+    " -LineageOS Update "
   ]
 }
