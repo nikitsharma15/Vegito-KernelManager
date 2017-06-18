@@ -1,7 +1,7 @@
 {
-  "newVersion": "6.8 ( Lineage Based )",
-  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Motorola/app/lineage_based/VegitoKernel_6.8-Athene_Lineage.zip",
+  "newVersion": "7.0 ( Lineage Based )",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Motorola/app/lineage_based/VegitoKernel_7.0-Athene_Lineage.zip",
   "versionNotes": [
-    "- Merged latest Lineage OS kernel source "
+    "- Upgrade to Latest Linux 3.10.106"
   ]
 }
