@@ -1,7 +1,7 @@
 {
-  "newVersion": "7.0",
-  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Lenovo/app/VegitoKernel_7.0-A6020.zip",
+  "newVersion": "7.1",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Lenovo/app/VegitoKernel_7.1-A6020.zip",
   "versionNotes": [
-    " -Upgrade to Latest Linux 3.10.106"
+    " -Upgrade to Latest Linux 3.10.107"
   ]
 }
