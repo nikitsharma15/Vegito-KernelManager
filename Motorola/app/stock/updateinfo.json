@@ -1,7 +1,8 @@
 {
-  "newVersion": "6.5 ( Stock )",
-  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Motorola/app/stock/VegitoKernel_6.5-Athene.zip",
+  "newVersion": "6.8 ( Stock )",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Motorola/app/stock/VegitoKernel_6.8-Anykernel2.zip",
   "versionNotes": [
-    "- Revert some useless governors \n- Remove msm hotplug driver use thunderplug for now \n- Many more check github"
+    "- CPU Overclocked to 1651 Mhz ( big clusters ) & UnderClocked to 249 Mhz ( Little clusters ) \n- OverClocked GPU to 600MHz \n- Added Zen I/O Scheduler
+"
   ]
 }
