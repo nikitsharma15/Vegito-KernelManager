@@ -1,7 +1,7 @@
 {
-  "newVersion": "7.1",
-  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Lenovo/app/VegitoKernel_7.1-A6020.zip",
+  "newVersion": "7.2",
+  "apkUrl": "https://raw.githubusercontent.com/nikitsharma15/Vegito-KernelManager/master/Lenovo/app/VegitoKernel_7.2-A6020.zip",
   "versionNotes": [
-    " -Upgrade to Latest Linux 3.10.107"
+    " Added sound control by flar2 \n Add an interface to boost devices when the screen is woken \n Added Zen I/O Scheduler "
   ]
 }
